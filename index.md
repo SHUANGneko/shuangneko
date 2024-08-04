@@ -7,4 +7,4 @@ ssssssssss
 
 cccccccccc
 
-![](https://shuangneko.com/images/V.png)
+![images/V.png](https://shuangneko.com/images/V.png)
