@@ -9,3 +9,6 @@
 
 ![images/466d2f2a090dea424a552ef44d63435e.jpg](https://raw.githubusercontent.com/SHUANGneko/shuangneko/main/images/466d2f2a090dea424a552ef44d63435e.jpg)
 
+## 版权声明
+
+猫窝物品不得私自带出，违者好吃好喝服侍猫猫w
