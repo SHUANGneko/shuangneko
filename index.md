@@ -7,7 +7,8 @@
 主玩APEX、PUBG、cs、vrc打的比较菜啦抱歉~  
 
 
-![images/e.jpg](https://raw.githubusercontent.com/SHUANGneko/shuangneko/main/images/e.jpg)
+![images/e.jpg](https://github.com/SHUANGneko/shuangneko/blob/main/images/e.jpg?raw=true)
+
 
 ## 版权声明
 
