@@ -1,3 +1,3 @@
-# SHUANGneko.github.io
+# SHUANGneko.github.io.shuangneko
 
 霜的小窝
