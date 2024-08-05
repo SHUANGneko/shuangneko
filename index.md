@@ -8,7 +8,7 @@
 
 
 ![images/VRChat1.png](https://raw.githubusercontent.com/SHUANGneko/shuangneko/main/images/VRChat1.png)
-![images/gaoshou.jpg](https://raw.githubusercontent.com/SHUANGneko/shuangneko/main/images/gaoshou.jpg)
+
 
 ## 版权声明
 
