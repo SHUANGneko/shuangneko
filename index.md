@@ -9,6 +9,9 @@
 
 ![images/VRChat1.png](https://raw.githubusercontent.com/SHUANGneko/shuangneko/main/images/VRChat1.png)
 ![images/贴贴.jpg](https://raw.githubusercontent.com/SHUANGneko/shuangneko/main/images/贴贴.jpg)
+![images/VRChat_2024-08-12_00-52-38.460_3840x2160.png](https://raw.githubusercontent.com/SHUANGneko/shuangneko/main/images/VRChat_2024-08-12_00-52-38.460_3840x2160.png)
+![images/VRChat_2024-08-12_00-31-30.274_3840x2160.png](https://raw.githubusercontent.com/SHUANGneko/shuangneko/main/images/VRChat_2024-08-12_00-31-30.274_3840x2160.png)
+
 
 ## 版权声明
 
